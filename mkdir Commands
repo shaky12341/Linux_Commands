@@ -1,0 +1,8 @@
+mkdir - mkdir stands for Make Directory. It is used to create directory. 
+        
+ 1) To create one directory :
+    Syntax - mkdir <directory_name>
+ 2) To create multiple directories :
+    Syntax - mkdir <directory_name1> <directory_name2>.......
+    
+ 
