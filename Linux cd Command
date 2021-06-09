@@ -1,0 +1,25 @@
+cd - cd stands for Change Directory. It is used to change to change the location or path of current working directory to another directory in which user wants to work.
+      Syntax- cd <directory_name>
+      
+Following are the cd commands syntax which are as follows :-
+
+1) To change current working directory to another directory :
+   Syntax - cd <Current_Working_Directory> <Destination_Directory>
+   
+2) To change current working directory to home directory :
+   Syntax - cd ~
+   
+3) To change current working directory to user's home directory :
+   Syntax - cd ~user_home_directory
+   
+4) To change previous directory from current working directory :
+   Syntax - cd -
+
+5) To change parent directory from current working directory :
+   Syntax - cd .
+   
+6) To change root directory from current working directory :
+   Syntax - cd /
+   
+7) To change multiple sub-directories :
+   Syntax - cd Directory1/Directory2.................
