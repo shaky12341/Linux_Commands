@@ -1,0 +1,36 @@
+ls - ls is the list command in linux. This command is used to show the contents of your directory.
+     Syntax - ls
+     
+Following are the commands related to ls which are as follows :-
+
+1) To show the list of all directories including hidden files :
+   Syntax - ls -a
+   
+2) To display files in a long list format :
+   Syntax - ls -l
+   
+3) To display only sub-directories exclding all files :
+   Syntax - ls -d*/
+   
+4) To display the file size in terms of Mb,Gb,etc :
+   Syntax - ls -lh
+   
+5) To display files in descending order according to file size :
+   Syntax - ls -lhs
+   
+6) To display only group ID and owner ID :
+   Syntax - ls -n
+   
+7) To display the list in reverse order :
+   Syntax - ls -r
+   
+8) To display the contents of home directory :
+   Syntax - ls ~
+   
+9) To display the contents of parent directory :
+   Syntax - ls../
+   
+10) To check the version of ls command :
+    Syntax - ls --version
+   
+
