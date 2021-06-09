@@ -1,6 +1,6 @@
 1) pwd - pwd stands for Print Working Directory. It is used to display the location or decription of the current directory in which user are working.
 
-2) ls - This command is used to show the list of folder.
+2) ls - ls is the list command in linux. This command is used to show the contents of your directory.
 
 3) cd- cd stands for Change Directory. It is used to change the path or location of current working directory to another directory in which user want to work.
 
