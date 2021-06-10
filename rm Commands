@@ -1,4 +1,4 @@
-rm - rm stands for remove. This command is used to remove a file.
+rm - rm stands for remove. It is used to remove a file.
 Syntax - rm <file_name>
 
 Following are the commands related to rm command which are as follows :-
