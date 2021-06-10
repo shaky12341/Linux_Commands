@@ -1,0 +1,22 @@
+rm - rm stands for remove. This command is used to remove a file.
+Syntax - rm <file_name>
+
+Following are the commands related to rm command which are as follows :-
+
+1) To remove all the files having same extension - 
+   Syntax - rm *<file_extension>
+   
+2) To delete a directory recursively - 
+   Syntax - rm -r <directory_name>
+   
+3) To remove a file interactively - 
+    Syntax - rm -i <file_name>
+    
+4) To remove a directory interactively - 
+    Syntax - rm -ri <directory_name>
+    
+5) To remove a file forcefully -
+   Syntax - rm -f <file_name>
+   
+6) To remove a directory forcefully -
+   Syntax - rm -rf <file_name>
