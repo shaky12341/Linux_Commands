@@ -1,0 +1,16 @@
+file - This command is used to determine the type of file.
+       Syntax - file <file_name>
+       
+Following are the commands of file which are as follows :-
+
+1) For special files -
+   Syntax - file -s <file_name>
+   
+2) To obtain the type of all files of the current directory - 
+   Syntax - file *
+   
+3) To obtain the type of all files of the mentioned directory - 
+   Syntax - file <directory_name>*
+   
+4) To obtain all those files which starts from a range of the specified alphabets -
+   Syntax - file [range]*
