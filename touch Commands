@@ -1,0 +1,18 @@
+touch - This command is used to create a file.
+Syntax - touch <file_name>
+ 
+Following are the commands related to touch which are as follows :-
+
+1) To change the access time and modification time of a file - 
+   Syntax - touch -a <file_name>
+   
+2) To change the only modification time of a file - 
+   Syntax - touch -m <file_name>
+   
+3) To update time of File1 with respect to File2 -
+   Syntax - touch -r <File1> <File2>
+                     or 
+            touch <File1> -r <File2>
+         
+4) To create non-empty file -
+   Syntax - touch -c <file_name>
