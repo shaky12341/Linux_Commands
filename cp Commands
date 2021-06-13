@@ -1,0 +1,20 @@
+cp - cp stands for Copy. This command is used to copy a file.
+Syntax - cp <existing file> <new file>
+
+Following are the commands related to cp which are as follows :-
+
+1) To copy directoy with its sub-directories :
+   Syntax - cp -r
+   
+2) To copy multiple files or directories in a directory :
+   Syntax - cp file1 file2 file3 directory_name
+   
+3) To backup the existing file before overwriting it :
+   Syntax - cp -backup
+   
+4) To create hard link file :
+   Syntax - cp -l
+   
+5) To preserve attribute of a file :
+   Syntax - cp -p
+ 
