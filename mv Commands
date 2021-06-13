@@ -1,0 +1,15 @@
+mv - mv stands for Move. This command is used to move a file or directory. It is also used to rename a file or directory.
+
+Following are the commands related to mv which are as follows :-
+
+1) To rename a file :
+   Syntax - mv <renaming_filename> <new_filename>
+   
+2) To rename a directory :
+   Syntax - mv <renaming_directory_name> <new_directory_name>
+   
+3) To move multiple files to a specific directory :
+   Syntax - mv *
+   
+4) To move only those files that doesnot exists :
+   Syntax - mv -u
