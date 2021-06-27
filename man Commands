@@ -1,0 +1,35 @@
+man- man stands for Manual Page.
+     It is an interface which is used to view the system's reference manual.
+     It's output displays through pager.
+     
+     It is divided into different sections :
+     
+     1) Executable programs and shell commands
+     2) System calls
+     3) Library calls
+     4) Special files
+     5) File formats and conventions
+     6) Games
+     7) Miscellaneous
+     8) System administration commands
+     9) Kernel routines
+     
+     Syntax - man [option(s)] [keyword(s)]
+     
+ Following are the commands related to man which are as follows :-
+ 
+1) For particular section :
+   Syntax - man section_number keyword(s)
+    
+2) To list all available sections of a file :
+   Syntax - man -aw
+    
+3) To view all man pages of a command :
+   Syntax - man -a
+   
+4) To display description from man if available :
+   Syntax - -f, whatis
+
+5) To determine location of a man :
+   Syntax - whereis 
+     
