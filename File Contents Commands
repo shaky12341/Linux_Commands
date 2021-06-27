@@ -1,0 +1,13 @@
+Following are the file contents commands which are as follows : 
+
+1) To display the beginning part of a file :
+    Syntax - head
+    
+2) To display the end part of a file :
+   Syntax - tail
+   
+3) To display contents in pager form that is either in more format :
+   Syntax - more
+   
+4) To display contents in pager form that is either in less format :
+   Syntax - less
